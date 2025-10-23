@@ -8,6 +8,7 @@ font-family: Classyvogueregular;
 }
 h1 {
 font-family: Classyvogueregular;
+     -webkit-text-stroke: 2px black;
 }
 h2 {
 font-family: Classyvogueregular;
