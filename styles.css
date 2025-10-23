@@ -28,3 +28,9 @@ animation: italyColor 3s infinite;
 img {
 width: 60%;
 }
+
+#Flag {
+position: absolute;
+        top: 0px;
+        right: 0px;
+}
