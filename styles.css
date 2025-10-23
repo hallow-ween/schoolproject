@@ -24,3 +24,7 @@ font-family: Classyvogueregular;
 #TitleAnim {
 animation: italyColor 3s infinite;
 }
+
+img {
+width: 60%;
+}
