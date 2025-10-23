@@ -12,3 +12,14 @@ font-family: Classyvogueregular;
 h2 {
 font-family: Classyvogueregular;
 }
+
+@keyframes italyColor {
+  0% {color: #008C45;}
+  50% {color: #F4F9FF;}
+  75% {color: #CD212A;}
+  100% {color: #008C45;}
+}
+
+#TitleAnim {
+animation: italyColor 3s infinite;
+}
