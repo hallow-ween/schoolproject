@@ -1,1 +1,14 @@
+@font-face {
+  font-family: Coolvetica;
+  src: url(coolvetica.ttf);
+}
 
+p {
+font-family: Coolvetica;
+}
+h1 {
+font-family: Coolvetica;
+}
+h2 {
+font-family: Coolvetica;
+}
