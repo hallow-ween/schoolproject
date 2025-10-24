@@ -43,13 +43,13 @@ width: 100px;
   
 }
 
-ImageB {
+#ImageB {
 width: 500px;
 height: 500px;
 }
 
 
-ImageButton {
+#ImageButton {
 width: 500px;
 height: 500px;
 }
