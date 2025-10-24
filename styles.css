@@ -48,6 +48,11 @@ width: 300px;
 height: 200px;
 }
 
+marquee {
+  margin: 0;      
+  display: inline; 
+  display: flex;
+}
 
 #ImageButton {
 width: 250px;
