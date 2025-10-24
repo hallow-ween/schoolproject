@@ -1,17 +1,22 @@
 @font-face {
-  font-family: Classyvogueregular;
-  src: url(Classyvogueregular.ttf);
+  font-family: OswaldR;
+  src: url(Oswald-Regular.ttf);
+}
+
+@font-face {
+font-family: OswaldB;
+  src: url(Oswald-Bold.ttf);
 }
 
 p {
-font-family: Classyvogueregular;
+font-family: OswaldR;
 }
 h1 {
-font-family: Classyvogueregular;
+font-family: OswaldB;
      -webkit-text-stroke: 0.5px black;
 }
 h2 {
-font-family: Classyvogueregular;
+font-family: OswaldR;
 }
 
 @keyframes italyColor {
